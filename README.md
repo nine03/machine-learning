@@ -88,4 +88,5 @@ print("Your input is:", testX, "and classified to class: ", outputLabel)
 </code></pre>
 代码输出：   
 ![04162552345819111](https://user-images.githubusercontent.com/60682087/113734852-a8be3d00-9736-11eb-919f-4671d043e627.JPG)
+
 画图解释一下输出结果：
