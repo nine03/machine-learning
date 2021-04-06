@@ -8,4 +8,4 @@
 由此也说明了KNN算法的结果很大程度取决于K的选择。   
 在KNN中，通过计算对象间距离来作为各个对象之间的非相似性指标，避免了对象之间的匹配问题，在这里距离一般使用欧氏距离或曼哈顿距离：
 
-![041625523458191](https://user-images.githubusercontent.com/60682087/113731660-eb324a80-9733-11eb-8b52-09d9ef3b0d8b.jpg)   
+![041625523458191](https://user-images.githubusercontent.com/60682087/113732306-727fbe00-9734-11eb-8612-25a5a7cbe022.jpg)
