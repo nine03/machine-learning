@@ -86,5 +86,5 @@ testX = array([0.1, 0.3])
 outputLabel = KNN.kNN_Classify(testX, dataSet, labels, 3)
 print("Your input is:", testX, "and classified to class: ", outputLabel)
 </code></pre>
-代码输出：
+代码输出：   
 ![04162552345819111](https://user-images.githubusercontent.com/60682087/113734852-a8be3d00-9736-11eb-919f-4671d043e627.JPG)
