@@ -91,4 +91,5 @@ print("Your input is:", testX, "and classified to class: ", outputLabel)
 
 画图解释一下输出结果：   
 ![1619855-20190306014957172-360003436](https://user-images.githubusercontent.com/60682087/113735127-e9b65180-9736-11eb-8ed9-5a85f4b21f62.jpg)
+
 - 这个项目是我为了重新学习机器学习而做的项目。（이 프로젝트는 내가 머신러닝(기계학습)을 다시 공부하기위해서 만든 프로젝트입니다.）
